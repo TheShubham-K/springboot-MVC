@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/home HTTP/1.1" 200 9606 http-bio-8080-exec-1 542
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/images/hpluslogo.svg HTTP/1.1" 200 3311 http-bio-8080-exec-3 25
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/images/employees/JessicaNewton.jpg HTTP/1.1" 200 33119 http-bio-8080-exec-5 22
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/css/style.css HTTP/1.1" 200 13561 http-bio-8080-exec-2 28
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/images/employees/HenryTwill.jpg HTTP/1.1" 200 59000 http-bio-8080-exec-4 26
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/images/employees/PhiTang.jpg HTTP/1.1" 200 67567 http-bio-8080-exec-6 23
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/images/employees/MariaSontas.jpg HTTP/1.1" 200 57976 http-bio-8080-exec-7 23
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/images/employees/MichaelLewiston.jpg HTTP/1.1" 200 72804 http-bio-8080-exec-4 4
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/images/employees/AngelaHaston.jpg HTTP/1.1" 200 65419 http-bio-8080-exec-6 4
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/images/backgrounds/cycling.jpg HTTP/1.1" 200 277290 http-bio-8080-exec-7 5
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/images/backgrounds/running.jpg HTTP/1.1" 200 152503 http-bio-8080-exec-6 8
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/images/backgrounds/soccer.jpg HTTP/1.1" 200 86343 http-bio-8080-exec-10 7
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/images/employees/HenryTwill_outline.png HTTP/1.1" 200 506466 http-bio-8080-exec-2 10
+0:0:0:0:0:0:0:1 - - [16/Sep/2019:11:54:15 -0700] "GET /springmvcmaven/images/backgrounds/discthrower.jpg HTTP/1.1" 200 154239 http-bio-8080-exec-8 6
